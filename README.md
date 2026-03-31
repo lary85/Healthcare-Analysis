@@ -9,9 +9,7 @@ The goal of this project is to demonstrate how healthcare data can be transforme
 
 ### Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)
-
-> *Tip: If the image doesn’t display, ensure the screenshot is placed inside an `assets` folder in the repository.*
+![Dashboard Screenshot](https://github.com/lary85/Healthcare-Analysis/blob/main/Hospital%20appointment%20%20analysis.png))
 
 ### Key Features
 
